@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CityWeather
 
 ## A simple Angular 4 app, showing weather forecast in the cities
@@ -37,3 +38,6 @@ Assuming you have node, npm and git installed:
 3. Start application by typing npm start
 
 4. Open http://localhost:4200/ in your browser.
+=======
+# city-weather
+>>>>>>> 205e422b6315151034d5a13f2cf941d3453d80fd
