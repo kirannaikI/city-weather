@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CityWeather
 
 ## A simple Angular 4 app, showing weather forecast in the cities
@@ -20,16 +20,13 @@ Main features why I created this app:
 - Search
 - Get data from an API
 
-## DEMO
-
-The app is hosted on GH pages: https://muki0082.github.io/city-weather/
 
 ## Installation
 
 Assuming you have node, npm and git installed:
 
 1. In Git Bash:
-    - $ git clone https://github.com/muki0082/city-weather.git city-weather
+    - $ git clone
     - $ cd city-weather
     - $ npm install
 
