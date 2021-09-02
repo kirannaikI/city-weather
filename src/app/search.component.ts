@@ -19,7 +19,7 @@ export class SearchComponent {
         private http: Http,
         private router: Router
     ) {
-        console.log('Sad ce search city data ...');
+        console.log('search city data ...');
     }
 
     cityNameValue = '';

@@ -23,7 +23,7 @@ export class CityNameComponent {
         private location: Location,
         private route: ActivatedRoute
     ) {
-        console.log('Sad ce city name data ...');
+        console.log('city name data ...');
         this.route.params.subscribe( params =>  this.getCityForecast(params['name']));
         this.getCityTest();
         this.getCityData();
