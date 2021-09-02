@@ -26,7 +26,6 @@ export class SearchComponent {
 
     onEnter(value: string) { 
         this.cityNameValue = value; 
-        console.log(this.cityNameValue); 
         this.router.navigate(['./city-name/'+this.cityNameValue]);
     }
 
